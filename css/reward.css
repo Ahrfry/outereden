@@ -1,0 +1,10 @@
+﻿#rewards img{
+    width:95%;
+   
+}
+
+.gray-out img{
+    -webkit-filter: grayscale(100%);
+    filter: grayscale(100%); 
+
+}

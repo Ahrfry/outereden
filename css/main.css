@@ -1,0 +1,50 @@
+﻿body{
+    font-family: 'Roboto', Helvetica, sans-serif;
+}
+
+#header {    
+    background-image: url(http://www.lovethesepics.com/wp-content/uploads/2013/05/Schools-out-for-summer-schools-out-forever-Abandoned-School-Classroom.jpg);
+    background-size: cover;
+    min-height: 388px;
+    margin-bottom: 100px;
+    background-position-y: center;
+}
+
+.navbar-brand{
+    color:white;
+}
+
+img{
+    width:100%;
+}
+
+
+.navbar a{
+    color: white;
+}
+
+.welcome{
+    margin-top: 5%;
+    color: white;
+    text-align: center;
+}
+
+.welcome p{
+    font-size: 39px;
+
+}
+
+.welcome .btn-default{
+    background-color: rgba(251,180,52,0);
+    border-color: #ccc;
+    color: white;
+}
+
+.about p{
+    font-size: 20px;
+    font-weight: 100;
+}
+
+.row{
+    margin-bottom: 20px;
+}

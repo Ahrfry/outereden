@@ -1,0 +1,126 @@
+﻿
+body {
+    font-family: ABeeZee, Georgia, serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 1.4em;
+}
+
+h1 {
+    font-family: Comix Loud;
+    /*font-family: Bangers, Impact, sans-serif;*/
+    font-size: 2em;
+    font-size: 2.5vw;
+    font-weight: bold;
+    text-transform: uppercase;
+    line-height: 1.8em;
+}
+
+h2 {
+    font-family: Boogaloo, Verdana, sans-serif;
+    font-size: 36px;
+    /* font-style: italic; */
+    font-weight: 400;
+    /* margin: 32px 0 12px; */
+}
+
+h3 {
+    font-family: Boogaloo, Verdana, sans-serif;
+    font-size: 2em;
+    /* font-style: italic; */
+    font-weight: 600;
+    text-transform: uppercase;
+    /* margin: 32px 0 12px; */
+}
+
+p {
+    /*font-weight: bold;*/
+    margin: 8px 4px;
+    text-align: justify;
+    /* text-indent: 32px; */
+    vertical-align: middle;
+}
+
+.table-container p {
+    text-align: unset;
+}
+
+li {
+    line-height: 1.7em;
+}
+
+.btn {
+    font-family: ABeeZee, Georgia, serif;
+    font-size: 14px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    /* margin-top: 5px; */
+}
+
+.btn-link {
+    letter-spacing: 2px;
+}
+
+.btn-social {
+    letter-spacing: 0;
+    /* font-size: 12px; */
+}
+
+.navbar li {
+    font-family: Bangers, Verdana, sans-serif;
+    font-size: 25px;
+    font-weight: 400;
+    letter-spacing: 2px;
+    text-decoration: none;
+    color: red;
+}
+
+.copyright {
+    color: #fff;
+    font-size: 12px;
+    text-transform: uppercase;
+}
+
+a {
+    /*color: #FDA099;/* color blue */
+    text-decoration: none;
+}
+
+a:hover {
+    color: #2C4E4B; /* color blue-d2 */
+    text-decoration: none;
+    cursor: pointer;
+}
+
+a:visited {
+    color: #FDA099; /* color blue */
+    text-decoration: none;
+}
+
+.container-row {
+    font-family: Times New, sans-serif;
+    line-height: 40px;
+    font-weight: bold;
+    font-size: 20px;
+    color: #FDA099;
+}
+
+.container-header h1 {
+
+    /* font-family: Bangers, Impact, sans-serif; */
+    font-size: 1em;
+    font-weight: 400;
+
+    /* line-height: normal; */
+}
+
+.container-header h2 {
+    font-size: 1.4em;
+    font-weight: 400;
+}
+
+.infobox-header h2 {
+    font-size: 1.5em;
+    margin: 0;
+    text-align: center;
+}
